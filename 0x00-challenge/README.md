@@ -1,10 +1,5 @@
 # Fix my code
-
-<!-- markdownlint-disable MD033 -->
-<p align="left">
-  <img alt="Debugging" title="Debugging"/></a>
-
-**Debugging
+#### Debugging
 
 ## Background Context
 Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
